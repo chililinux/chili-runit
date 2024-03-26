@@ -1,0 +1,4 @@
+untar runit-2.1.2.tar.gz
+cd admin/runit-2.1.2
+package/install
+
